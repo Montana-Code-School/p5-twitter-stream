@@ -1,0 +1,19 @@
+{
+  "name": "twitter-streaming-project",
+  "version": "1.0.0",
+  "description": "testing twitter streaming api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "mike d and team",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "express": "^4.15.2",
+    "lodash": "^4.17.4",
+    "path": "^0.12.7",
+    "twit": "^2.2.5"
+  }
+}
